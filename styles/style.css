@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(245, 241, 202);
+    color: black;
+    
+}
+
+.foot {
+    word-spacing: 20px;
+    bottom: 0px;
+    position: fixed;
+    
+
+    
+}
+html {
+    display: block;
+    
+}
+img {
+    margin-top: 200px;
+    margin-left: 800px;
+    width: 300px;
+}
+
+#searchinput {
+    width: 550px;
+    margin-left: 700px;
+    margin-top: 30px;
+    height: 35px;
+    border-radius: 10px;
+    box-shadow: 20px, rgb(252, 252, 251);
+    background-color: rgb(247, 246, 243);
+    border: none;
+}
+#search {
+    margin-left: 800px;
+    margin-right: 20px;
+    margin-top: 50px;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+
+
+}
+
+#imlucky {
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+#button {
+    padding: 7px 10px 7px 10px;
+    background-color: rgba(53, 18, 250, 0.637);
+    border: none;
+    border-radius: 2px;
+    color: white;
+}
+.header {
+    text-align: right;
+
+}
+
+
+
+
+
+
+
+
