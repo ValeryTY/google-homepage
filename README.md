@@ -1,0 +1,1 @@
+I am working on Microverse pre-course project and this is my first attmept at making a Google search page copy. If you see how you can help me improve the code then please let me know. I appreciate all the help i can get.
